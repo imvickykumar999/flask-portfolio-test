@@ -2,7 +2,7 @@
 
 [![app.py](https://raw.githubusercontent.com/imvickykumar999/Portfolio-using-Flask/main/screenshot.png)](https://github.com/imvickykumar999/Portfolio-using-Flask/blob/main/app.py)
 
-## Download my WebApp's APK
+## Download my WebApp's APK (... my heroku's free dynos, has been expired !!!)
 [![download webapp](https://raw.githubusercontent.com/imvickykumar999/Portfolio-using-Flask/main/chart.png)](https://appsgeyser.com/api/track/redirect?url=https://files.appsgeyser.com/Oye%20Vix_12473422.apk?src=page)
 
 
